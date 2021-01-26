@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.4.0](https://www.github.com/googleapis/java-spanner/compare/v3.3.2...v3.4.0) (2021-01-26)
+
+
+### Features
+
+* add option for returning Spanner commit stats ([#817](https://www.github.com/googleapis/java-spanner/issues/817)) ([80d3585](https://www.github.com/googleapis/java-spanner/commit/80d3585870b81949ec641291e5a88fe391f78e27))
+
 ### [3.3.2](https://www.github.com/googleapis/java-spanner/compare/v3.3.1...v3.3.2) (2021-01-18)
 
 
